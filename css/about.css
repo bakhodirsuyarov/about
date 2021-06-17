@@ -85,7 +85,7 @@ body{
 .main-hero{
   position: relative;
   z-index: 1;
-  background-image: url(../img/about/about-hero-bg.png);
+  background-image: url(../img/about-hero-bg.png);
   background-repeat: no-repeat;
   background-position: calc(50% - 16px);
   top: 21px;
@@ -106,7 +106,7 @@ body{
   width: 234px;
   height: 63px;
   content: "";
-  background-image: url(../img/about/header.circle.png);
+  background-image: url(../img/header.circle.png);
   background-repeat: no-repeat;
   background-size: contain;
   bottom: calc(50% - 40px);
@@ -160,7 +160,7 @@ body{
   content: "";
   width: 1078px;
   height: 445px;
-  background-image: url(../img/about/phone-circle.png);
+  background-image: url(../img/phone-circle.png);
   background-repeat: no-repeat;
   background-size: contain;
   left: 524px;
@@ -171,7 +171,7 @@ body{
   content:"";
   width: 995px;
   height: 445px;
-  background-image: url(../img/about/better-circle.png);
+  background-image: url(../img/better-circle.png);
   background-repeat: no-repeat;
   background-size: contain;
   right: calc(50% - -92px);
@@ -244,7 +244,7 @@ body{
   width: 96px;
   height: 96px;
   content: "";
-  background-image: url(../img/about/value01.png);
+  background-image: url(../img/value01.png);
   background-repeat: no-repeat;
   background-size: contain;
   bottom: 210px;
@@ -257,7 +257,7 @@ body{
   width: 96px;
   height: 96px;
   content: "";
-  background-image: url(../img/about/value02.png);
+  background-image: url(../img/value02.png);
   background-repeat: no-repeat;
   background-size: contain;
   bottom: 210px;
@@ -270,7 +270,7 @@ body{
   width: 96px;
   height: 96px;
   content: "";
-  background-image: url(../img/about/value03.png);
+  background-image: url(../img/value03.png);
   background-repeat: no-repeat;
   background-size: contain;
   bottom: 210px;
